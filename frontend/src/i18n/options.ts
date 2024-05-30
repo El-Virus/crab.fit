@@ -40,6 +40,11 @@ export const languageDetails: Record<typeof languages[number], LanguageDetails> 
     weekStart: 1,
     timeFormat: '12h',
   },
+  'ca': { // Catalan
+    name: 'Català',
+    weekStart: 1,
+    timeFormat: '24h',
+  },
   'de': { // German
     name: 'Deutsch',
     weekStart: 1,
